@@ -1,3 +1,12 @@
+## [7.2.2](https://github.com/softwaregroup-bg/ut-port-viber-sim/compare/v7.2.1...v7.2.2) (2021-04-13)
+
+
+### Bug Fixes
+
+* k8s port ([8ace0df](https://github.com/softwaregroup-bg/ut-port-viber-sim/commit/8ace0df8fee989477c3d4a3049146880fb94b875))
+
+
+
 ## [7.2.1](https://github.com/softwaregroup-bg/ut-port-viber-sim/compare/v7.2.0...v7.2.1) (2021-04-10)
 
 
