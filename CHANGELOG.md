@@ -1,3 +1,12 @@
+## [7.2.4](https://github.com/softwaregroup-bg/ut-port-viber-sim/compare/v7.2.3...v7.2.4) (2022-06-04)
+
+
+### Bug Fixes
+
+* 🎉second anniversay bugfix for ([08bc2aa](https://github.com/softwaregroup-bg/ut-port-viber-sim/commit/08bc2aa994a947bca814156c555e067f472a674a))
+
+
+
 ## [7.2.3](https://github.com/softwaregroup-bg/ut-port-viber-sim/compare/v7.2.2...v7.2.3) (2021-06-30)
 
 
