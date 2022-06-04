@@ -8,6 +8,7 @@ module.exports = function viberSim(...params) {
                 path: '/pa/{method}',
                 hook: 'botSim.viberFlow',
                 mode: 'reply',
+                async: false,
                 server: {
                     port: 8181
                 },
